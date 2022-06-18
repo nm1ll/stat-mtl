@@ -1,0 +1,30 @@
+Warning messages:
+1: In predict.lm(model_linear, as.data.frame(X)) :
+  prediction from a rank-deficient fit may be misleading
+2: In svm.default(y = y_adjustment, x = X, type = "eps-regression",  :
+  Variable(s) ‘V41’ and ‘V43’ and ‘V45’ and ‘V50’ and ‘V51’ and ‘V53’ and ‘V [... truncated]
+3: In predict.lm(model_linear, as.data.frame(X)) :
+  prediction from a rank-deficient fit may be misleading
+4: In svm.default(y = y_adjustment, x = X, type = "eps-regression",  :
+  Variable(s) ‘V41’ and ‘V43’ and ‘V45’ and ‘V50’ and ‘V51’ and ‘V53’ and ‘V [... truncated]
+Warning message:
+In write.table(ev_df, file = filename, append = TRUE, quote = FALSE,  :
+  appending column names to file
+Warning messages:
+1: In predict.lm(model_linear, as.data.frame(X)) :
+  prediction from a rank-deficient fit may be misleading
+2: In svm.default(y = y_adjustment, x = X, type = "eps-regression",  :
+  Variable(s) ‘V41’ and ‘V43’ and ‘V45’ and ‘V50’ and ‘V51’ and ‘V53’ and ‘V [... truncated]
+3: In predict.lm(model_linear, as.data.frame(X)) :
+  prediction from a rank-deficient fit may be misleading
+4: In svm.default(y = y_adjustment, x = X, type = "eps-regression",  :
+  Variable(s) ‘V41’ and ‘V43’ and ‘V45’ and ‘V50’ and ‘V51’ and ‘V53’ and ‘V [... truncated]
+Warning messages:
+1: In predict.lm(model_linear, as.data.frame(X)) :
+  prediction from a rank-deficient fit may be misleading
+2: In svm.default(y = y_adjustment, x = X, type = "eps-regression",  :
+  Variable(s) ‘V29’ and ‘V30’ and ‘V31’ and ‘V32’ and ‘V33’ and ‘V34’ and ‘V [... truncated]
+3: In predict.lm(model_linear, as.data.frame(X)) :
+  prediction from a rank-deficient fit may be misleading
+4: In svm.default(y = y_adjustment, x = X, type = "eps-regression",  :
+  Variable(s) ‘V29’ and ‘V30’ and ‘V31’ and ‘V32’ and ‘V33’ and ‘V34’ and ‘V [... truncated]

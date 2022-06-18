@@ -1,0 +1,10 @@
+Warning message:
+In write.table(ev_df, file = filename, append = TRUE, quote = FALSE,  :
+  appending column names to file
+Warning: Permanently added 'wheeler012,172.16.1.12' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'wheeler157,172.16.1.157' (ECDSA) to the list of known hosts.
+Warning: Permanently added 'wheeler158,172.16.1.158' (ECDSA) to the list of known hosts.
+
+WARNING: reaching max number of iterations
+
+WARNING: reaching max number of iterations

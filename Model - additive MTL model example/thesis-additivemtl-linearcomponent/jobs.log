@@ -1,0 +1,4 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+2	wheeler110	1646740567.444	  2764.882	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent/linearcomponent_test.R '0.1'
+3	wheeler110	1646743332.348	  2762.013	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent/linearcomponent_test.R 0.01
+1	wheeler110	1646740567.424	  6460.290	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent/linearcomponent_test.R '0.0'

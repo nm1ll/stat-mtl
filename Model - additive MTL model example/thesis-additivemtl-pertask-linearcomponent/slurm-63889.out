@@ -1,0 +1,838 @@
+parallel: Warning: The first three values end in CR-NL. Consider using -d "\r\n"
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In write.table(ev_df, file = filename, append = TRUE, quote = FALSE,  :
+  appending column names to file
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X) :
+  prediction from a rank-deficient fit may be misleading
+Warning message:
+In predict.lm(model, X_dev) :
+  prediction from a rank-deficient fit may be misleading

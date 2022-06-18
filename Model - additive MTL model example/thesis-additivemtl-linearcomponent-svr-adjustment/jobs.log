@@ -1,0 +1,122 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+15	wheeler110	1647699408.073	    94.656	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '0.001'
+13	wheeler012	1647699408.024	    94.896	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '0.00001'
+5	wheeler012	1647699407.838	    95.652	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '0.01'
+12	wheeler036	1647699408.000	    95.779	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '0.000001'
+1	wheeler039	1647699407.746	    96.065	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '0.000001'
+2	wheeler109	1647699407.769	    96.187	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '0.00001'
+14	wheeler157	1647699408.049	    96.042	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '0.0001'
+4	wheeler036	1647699407.815	    96.793	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '0.001'
+3	wheeler035	1647699407.792	    97.233	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '0.0001'
+6	wheeler157	1647699407.861	    97.395	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '0.1'
+16	wheeler158	1647699408.096	    97.255	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '0.01'
+7	wheeler110	1647699407.885	   105.144	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '1'
+8	wheeler158	1647699407.908	   127.163	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '10'
+11	wheeler035	1647699407.976	   146.368	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' 10000
+9	wheeler039	1647699407.930	   146.434	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '100'
+10	wheeler109	1647699407.953	   148.299	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.000001' '1000'
+17	wheeler110	1647699502.754	    94.414	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '0.1'
+24	wheeler036	1647699504.627	    92.928	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '0.00001'
+23	wheeler157	1647699504.116	    93.545	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '0.000001'
+25	wheeler035	1647699505.047	    94.000	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '0.0001'
+26	wheeler157	1647699505.273	    94.423	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '0.001'
+27	wheeler158	1647699505.367	    94.627	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '0.01'
+28	wheeler110	1647699513.046	    94.025	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '0.1'
+18	wheeler012	1647699502.939	   104.378	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '1'
+19	wheeler012	1647699503.515	   124.416	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '10'
+29	wheeler158	1647699535.091	   102.924	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '1'
+20	wheeler036	1647699503.803	   142.982	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '100'
+22	wheeler109	1647699503.980	   143.601	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' 10000
+21	wheeler039	1647699503.837	   144.492	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.00001' '1000'
+30	wheeler035	1647699554.360	   123.521	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '10'
+34	wheeler036	1647699597.573	    93.832	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '0.000001'
+35	wheeler157	1647699597.677	    94.846	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '0.00001'
+36	wheeler035	1647699599.063	    93.805	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '0.0001'
+37	wheeler157	1647699599.713	    94.677	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '0.001'
+38	wheeler158	1647699600.011	    94.790	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '0.01'
+31	wheeler039	1647699554.380	   144.123	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '100'
+32	wheeler109	1647699556.268	   143.523	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' '1000'
+39	wheeler110	1647699607.087	    94.141	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '0.1'
+40	wheeler012	1647699607.335	   103.056	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '1'
+45	wheeler039	1647699648.346	    93.381	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '0.000001'
+33	wheeler110	1647699597.201	   145.506	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.0001' 10000
+41	wheeler012	1647699627.951	   123.476	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '10'
+46	wheeler035	1647699677.905	    93.108	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '0.00001'
+42	wheeler158	1647699638.032	   142.882	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '100'
+47	wheeler036	1647699691.423	    93.733	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '0.0001'
+49	wheeler035	1647699692.885	    92.838	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '0.01'
+48	wheeler157	1647699692.541	    94.712	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '0.001'
+50	wheeler157	1647699694.408	    94.101	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '0.1'
+43	wheeler036	1647699646.803	   143.314	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' '1000'
+44	wheeler109	1647699647.598	   144.134	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.001' 10000
+51	wheeler158	1647699694.818	   103.332	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '1'
+52	wheeler039	1647699698.523	   123.040	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '10'
+56	wheeler039	1647699741.750	    92.565	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '0.000001'
+57	wheeler110	1647699742.723	    92.833	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '0.00001'
+53	wheeler109	1647699699.808	   143.101	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '100'
+58	wheeler012	1647699751.450	    92.980	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '0.0001'
+54	wheeler110	1647699701.244	   144.871	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' '1000'
+55	wheeler012	1647699710.411	   143.779	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.01' 10000
+59	wheeler035	1647699771.030	    93.740	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '0.001'
+60	wheeler158	1647699780.932	    94.503	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '0.01'
+61	wheeler036	1647699785.176	    94.077	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '0.1'
+62	wheeler035	1647699785.740	   101.121	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '1'
+67	wheeler158	1647699798.166	    92.303	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '0.000001'
+63	wheeler157	1647699787.271	   125.778	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '10'
+68	wheeler039	1647699821.591	    92.976	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '0.00001'
+69	wheeler039	1647699834.333	    92.585	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '0.0001'
+70	wheeler110	1647699835.577	    93.802	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '0.001'
+64	wheeler157	1647699788.525	   142.967	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '100'
+65	wheeler036	1647699790.136	   143.871	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' '1000'
+71	wheeler109	1647699842.927	    93.454	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '0.01'
+66	wheeler109	1647699791.754	   144.710	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '0.1' 10000
+72	wheeler012	1647699844.451	   101.173	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '0.1'
+73	wheeler110	1647699846.133	   120.666	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '1'
+78	wheeler035	1647699886.889	    91.867	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '0.000001'
+79	wheeler158	1647699890.487	    93.164	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '0.00001'
+74	wheeler012	1647699854.210	   149.514	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '10'
+80	wheeler157	1647699913.066	    94.118	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '0.0001'
+81	wheeler039	1647699914.585	    94.168	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '0.001'
+82	wheeler039	1647699926.936	    97.163	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '0.01'
+75	wheeler035	1647699864.786	   169.109	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '100'
+76	wheeler158	1647699875.457	   170.852	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' '1000'
+77	wheeler036	1647699879.270	   169.394	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1' 10000
+89	wheeler110	1647699966.817	    92.259	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '0.000001'
+83	wheeler110	1647699929.395	   139.634	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '0.1'
+90	wheeler035	1647699978.773	    93.286	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '0.00001'
+91	wheeler158	1647699983.667	    94.358	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '0.0001'
+84	wheeler157	1647699931.510	   159.785	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '1'
+85	wheeler036	1647699934.024	   161.669	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '10'
+92	wheeler012	1647700003.746	    97.338	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '0.001'
+86	wheeler109	1647699936.399	   176.912	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '100'
+87	wheeler109	1647699936.482	   177.151	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' '1000'
+88	wheeler012	1647699945.643	   178.709	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '10' 10000
+93	wheeler157	1647700007.205	   139.739	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '0.01'
+100	wheeler110	1647700069.053	    91.901	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '0.000001'
+101	wheeler035	1647700072.076	    93.878	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '0.00001'
+102	wheeler158	1647700078.042	    96.839	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '0.0001'
+96	wheeler035	1647700033.917	   162.118	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '10'
+103	wheeler157	1647700091.312	   122.803	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '0.001'
+97	wheeler158	1647700046.332	   177.046	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '100'
+98	wheeler036	1647700048.681	   178.065	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '1000'
+95	wheeler039	1647700024.117	   206.013	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '1'
+99	wheeler110	1647700059.094	   177.612	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' 10000
+94	wheeler039	1647700008.772	   249.804	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '100' '0.1'
+111	wheeler035	1647700165.971	    93.633	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '0.000001'
+112	wheeler158	1647700174.899	    99.141	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '0.00001'
+107	wheeler109	1647700113.650	   164.742	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '10'
+108	wheeler012	1647700124.371	   176.866	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '100'
+113	wheeler035	1647700196.053	   117.597	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '0.0001'
+109	wheeler157	1647700146.966	   177.023	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '1000'
+110	wheeler110	1647700160.972	   177.150	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' 10000
+106	wheeler109	1647700113.332	   263.953	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '1'
+118	wheeler110	1647700236.724	   164.358	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '10'
+119	wheeler039	1647700258.594	   175.357	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '100'
+120	wheeler035	1647700259.621	   178.213	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '1000'
+121	wheeler158	1647700274.057	   177.160	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 10000
+114	wheeler157	1647700214.138	   314.700	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '0.001'
+117	wheeler039	1647700230.146	   360.290	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '1'
+104	wheeler036	1647700095.710	   710.843	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '0.01'
+105	wheeler012	1647700101.103	   722.368	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 '1000' '0.1'
+116	wheeler036	1647700226.763	  2396.675	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '0.1'
+115	wheeler158	1647700223.394	  4918.300	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-linearcomponent-svr-adjustment/adjustment_svr_tuning_raw.R 1 10000 '0.01'

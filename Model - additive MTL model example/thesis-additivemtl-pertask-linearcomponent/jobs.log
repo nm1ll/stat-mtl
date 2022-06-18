@@ -1,0 +1,140 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+1	wheeler154	1647706877.358	   325.586	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '1'
+11	wheeler155	1647706877.559	   325.627	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '11'
+10	wheeler203	1647706877.538	   326.471	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '10'
+9	wheeler154	1647706877.517	   327.276	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '9'
+4	wheeler202	1647706877.418	   328.305	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '4'
+2	wheeler203	1647706877.377	   329.276	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '2'
+15	wheeler260	1647706877.637	   329.324	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '15'
+16	wheeler204	1647706877.654	   330.112	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '16'
+12	wheeler202	1647706877.581	   330.506	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '12'
+7	wheeler260	1647706877.477	   331.052	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '7'
+8	wheeler204	1647706877.498	   331.319	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '8'
+3	wheeler155	1647706877.397	   331.541	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '3'
+14	wheeler186	1647706877.619	   331.338	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '14'
+5	wheeler205	1647706877.437	   331.723	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '5'
+6	wheeler186	1647706877.457	   332.614	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '6'
+13	wheeler205	1647706877.600	   332.857	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '13'
+17	wheeler154	1647707202.967	   328.384	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '17'
+18	wheeler155	1647707203.211	   328.713	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '18'
+20	wheeler154	1647707204.814	   328.078	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '20'
+27	wheeler204	1647707208.833	   324.380	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '27'
+24	wheeler204	1647707207.784	   326.266	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '24'
+30	wheeler205	1647707209.176	   325.062	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '30'
+32	wheeler205	1647707210.473	   324.613	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '32'
+23	wheeler260	1647707206.984	   329.067	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '23'
+28	wheeler155	1647707208.957	   328.285	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '28'
+22	wheeler203	1647707206.669	   330.867	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '22'
+19	wheeler203	1647707204.034	   333.561	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '19'
+21	wheeler202	1647707205.745	   331.978	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '21'
+29	wheeler186	1647707208.975	   328.859	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '29'
+26	wheeler260	1647707208.547	   330.141	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '26'
+25	wheeler202	1647707208.107	   331.206	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '25'
+31	wheeler186	1647707210.088	   330.046	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '31'
+35	wheeler154	1647707532.915	   324.443	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '35'
+33	wheeler154	1647707531.373	   326.633	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '33'
+39	wheeler205	1647707535.103	   323.733	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '39'
+34	wheeler155	1647707531.947	   328.384	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '34'
+36	wheeler204	1647707533.234	   330.081	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '36'
+37	wheeler204	1647707534.068	   329.455	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '37'
+38	wheeler205	1647707534.255	   329.739	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '38'
+46	wheeler260	1647707538.703	   325.671	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '46'
+44	wheeler202	1647707537.739	   326.928	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '44'
+41	wheeler155	1647707537.265	   327.896	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '41'
+47	wheeler202	1647707539.330	   325.976	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '47'
+40	wheeler260	1647707536.070	   329.358	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '40'
+48	wheeler186	1647707540.150	   325.324	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '48'
+42	wheeler203	1647707537.552	   328.930	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '42'
+43	wheeler203	1647707537.610	   329.430	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '43'
+45	wheeler186	1647707537.850	   333.626	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '45'
+49	wheeler154	1647707857.381	   323.960	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '49'
+52	wheeler155	1647707860.347	   327.730	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '52'
+51	wheeler205	1647707858.853	   330.002	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '51'
+50	wheeler154	1647707858.030	   332.240	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '50'
+55	wheeler205	1647707864.013	   326.352	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '55'
+54	wheeler204	1647707863.540	   327.532	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '54'
+62	wheeler203	1647707866.499	   325.949	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '62'
+57	wheeler202	1647707864.684	   327.918	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '57'
+60	wheeler260	1647707865.443	   327.243	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '60'
+58	wheeler155	1647707865.178	   328.605	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '58'
+53	wheeler204	1647707863.333	   332.492	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '53'
+59	wheeler202	1647707865.323	   331.061	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '59'
+56	wheeler260	1647707864.390	   332.032	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '56'
+61	wheeler186	1647707865.491	   331.465	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '61'
+63	wheeler203	1647707867.057	   330.634	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '63'
+64	wheeler186	1647707871.493	   328.233	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '64'
+65	wheeler154	1647708181.371	   328.023	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '65'
+74	wheeler155	1647708193.802	   324.592	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '74'
+66	wheeler155	1647708188.094	   330.357	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '66'
+68	wheeler154	1647708190.297	   328.482	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '68'
+67	wheeler205	1647708188.871	   330.259	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '67'
+72	wheeler202	1647708192.620	   326.919	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '72'
+71	wheeler203	1647708192.468	   327.378	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '71'
+69	wheeler205	1647708190.391	   332.299	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '69'
+73	wheeler260	1647708192.703	   331.237	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '73'
+70	wheeler204	1647708191.092	   333.733	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '70'
+77	wheeler260	1647708196.439	   329.390	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '77'
+79	wheeler203	1647708197.708	   330.595	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '79'
+78	wheeler186	1647708196.973	   331.483	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '78'
+75	wheeler204	1647708195.847	   333.491	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '75'
+76	wheeler202	1647708196.400	   332.957	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '76'
+80	wheeler186	1647708199.743	   330.815	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '80'
+81	wheeler154	1647708509.418	   329.463	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '81'
+87	wheeler203	1647708519.867	   327.692	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '87'
+84	wheeler154	1647708518.799	   329.585	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '84'
+86	wheeler202	1647708519.557	   330.029	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '86'
+83	wheeler155	1647708518.468	   331.406	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '83'
+85	wheeler205	1647708519.154	   331.516	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '85'
+82	wheeler155	1647708518.412	   332.348	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '82'
+88	wheeler205	1647708522.707	   328.263	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '88'
+92	wheeler203	1647708528.321	   324.782	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '92'
+95	wheeler202	1647708529.372	   324.375	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '95'
+89	wheeler260	1647708523.962	   330.663	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '89'
+91	wheeler260	1647708525.846	   331.115	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '91'
+90	wheeler204	1647708524.841	   332.613	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '90'
+94	wheeler204	1647708529.357	   332.344	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '94'
+96	wheeler186	1647708530.575	   331.421	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '96'
+93	wheeler186	1647708528.473	   334.259	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '93'
+97	wheeler154	1647708838.903	   328.201	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '97'
+99	wheeler154	1647708848.409	   325.695	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '99'
+104	wheeler205	1647708850.986	   325.217	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '104'
+102	wheeler205	1647708850.687	   327.632	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '102'
+98	wheeler203	1647708847.577	   330.879	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '98'
+103	wheeler155	1647708850.777	   327.700	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '103'
+105	wheeler203	1647708853.121	   327.626	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '105'
+101	wheeler155	1647708849.898	   331.542	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '101'
+100	wheeler202	1647708849.604	   332.398	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '100'
+106	wheeler202	1647708853.763	   328.608	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '106'
+108	wheeler260	1647708856.978	   329.495	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '108'
+111	wheeler186	1647708862.014	   324.756	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '111'
+107	wheeler260	1647708854.642	   333.302	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '107'
+110	wheeler204	1647708861.719	   326.627	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '110'
+109	wheeler204	1647708857.472	   332.464	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '109'
+112	wheeler186	1647708862.752	   331.528	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '112'
+113	wheeler154	1647709167.127	   328.256	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '113'
+116	wheeler205	1647709178.338	   325.687	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '116'
+115	wheeler205	1647709176.220	   328.375	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '115'
+114	wheeler154	1647709174.123	   332.111	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '114'
+118	wheeler155	1647709178.498	   330.193	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '118'
+117	wheeler203	1647709178.478	   332.335	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '117'
+119	wheeler203	1647709180.764	   330.526	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '119'
+120	wheeler155	1647709181.458	   329.990	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '120'
+122	wheeler202	1647709182.389	   329.639	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '122'
+127	wheeler204	1647709189.953	   323.820	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '127'
+121	wheeler202	1647709182.018	   331.898	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '121'
+124	wheeler186	1647709186.789	   329.072	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '124'
+126	wheeler204	1647709188.364	   329.947	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '126'
+123	wheeler260	1647709186.490	   332.581	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '123'
+125	wheeler260	1647709187.961	   331.681	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '125'
+128	wheeler186	1647709194.298	   330.435	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '128'
+129	wheeler154	1647709495.404	   329.921	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '129'
+130	wheeler205	1647709504.044	   324.434	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '130'
+132	wheeler154	1647709506.257	   327.352	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '132'
+133	wheeler155	1647709508.707	   326.989	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '133'
+131	wheeler205	1647709504.612	   333.275	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '131'
+134	wheeler203	1647709510.832	   328.918	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '134'
+135	wheeler203	1647709511.308	   328.761	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '135'
+136	wheeler155	1647709511.466	   329.783	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '136'
+137	wheeler202	1647709512.044	   332.648	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '137'
+138	wheeler204	1647709513.791	   331.775	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R '138'
+139	wheeler202	1647709513.932	   332.098	0	0	0	0	Rscript --vanilla /projects/gzhang2016227/nikolay/thesis-additivemtl-pertask-linearcomponent/linearcomponent_pertask_raw.R 139
