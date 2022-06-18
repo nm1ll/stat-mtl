@@ -1,8 +1,14 @@
 # Code repository for PhD dissertation "Statistical Extensions of Multi-Task Learning with Semiparametric Methods and Task Diagnostics"
 
+This repository includes data and code used in PhD dissertation "Statistical Extensions of Multi-Task Learning with Semiparametric Methods and Task Diagnostics" by Nikolay Miller, submitted as part of requirements for PhD in Statistics at University of New Mexico at July 2022. When it is published, it will become available for download at https://digitalrepository.unm.edu/math_etds/
 
+## Model codes
 
-# ILEA schools data splits
+The folder "Model - additive MTL model example" contains the components of two-step model example in Chapter 5 of the dissertation. Note that the codes need to be run sequentially: first linear component, then SVR adjustment. The paths for models need to be adjusted accordingly to your download location. The models are implemented as Slurm batch scripts.
+
+The folder "Model - best performance subsets" contains best performance subsets algorithm which is a two-step multi-task model as described in Chapter 4. It is implemented using "doParallel" R package, so there is no need for Slurm cluster. There are several slightly different versions; the differences can be found in code descriptions.
+
+## ILEA schools data splits
 
 The folder "Dataset creation - ILEA data" contains ILEA schools data that was used in my dissertation. For reference, the original dataset can be found at:
 http://www.bristol.ac.uk/cmm/learning/support/datasets/ _
