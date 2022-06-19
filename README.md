@@ -1,6 +1,6 @@
 # Code repository for PhD dissertation "Statistical Extensions of Multi-Task Learning with Semiparametric Methods and Task Diagnostics"
 
-This repository includes data and code used in PhD dissertation "Statistical Extensions of Multi-Task Learning with Semiparametric Methods and Task Diagnostics" by Nikolay Miller, submitted as part of requirements for PhD in Statistics at University of New Mexico at July 2022. When it is published, it will become available for download at https://digitalrepository.unm.edu/math_etds/
+This repository includes data and code used in PhD dissertation "Statistical Extensions of Multi-Task Learning with Semiparametric Methods and Task Diagnostics" by Nikolay Miller, submitted as part of requirements for PhD in Statistics at University of New Mexico at July 2022. When it is published, it will become available for download at https://digitalrepository.unm.edu/math_etds/ . Alternatively, you can reach out to me directly for a copy.
 
 ## Model codes
 
