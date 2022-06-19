@@ -8,6 +8,10 @@ The folder "Model - additive MTL model example" contains the components of two-s
 
 The folder "Model - best performance subsets" contains best performance subsets algorithm which is a two-step multi-task model as described in Chapter 4. It is implemented using "doParallel" R package, so there is no need for Slurm cluster. There are several slightly different versions; the differences can be found in code descriptions.
 
+## Task diagnostics
+
+The task diagnostics procedures described in Chapter 6 are available in the folder "Task diagnostics"
+
 ## ILEA schools data splits
 
 The folder "Dataset creation - ILEA data" contains ILEA schools data that was used in my dissertation. For reference, the original dataset can be found at:
